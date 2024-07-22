@@ -25,5 +25,9 @@ Key Features
 4. Real-Time Chat: Communicate with friends and followers through direct messaging, enabling instant and private conversations.
 
 
+Here's what the app look likes:
+
+
+
    
 
